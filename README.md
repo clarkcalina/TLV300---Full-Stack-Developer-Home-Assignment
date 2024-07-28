@@ -27,7 +27,7 @@ Develop a user interface using Next.js 14 and Tailwind CSS to interact with the 
 
 ### Prerequisites
 
-- Node.js (v14.x or higher)
+- Node.js (v20.x or higher)
 - npm or yarn
 - A Whois API key
 
