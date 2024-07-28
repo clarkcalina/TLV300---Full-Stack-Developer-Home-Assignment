@@ -1,3 +1,37 @@
+# TLV300 - Full Stack Developer Home Assignment
+
+## Overview
+
+The Whois API is a service that provides comprehensive information about domain names, including details about domain registration, ownership, and contact information. This API allows users to retrieve essential details about a given domain.
+
+For more information about the Whois REST API, refer to the [Whois API Documentation](https://whois.whoisxmlapi.com/documentation/making-requests).
+
+## Assignment
+
+This project involves creating a full-stack application with both backend and frontend components.
+
+### Backend
+
+Create an endpoint that receives a domain name and the type of requested data (domain information/contact information) and returns the corresponding data from the Whois API.
+
+- **Domain Information**
+  - Domain Name
+  - Registrar
+  - Registration Date
+
+### Frontend
+
+Develop a user interface using Next.js 14 and Tailwind CSS to interact with the backend endpoint and display the retrieved domain information.
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js (v14.x or higher)
+- npm or yarn
+- A Whois API key
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
